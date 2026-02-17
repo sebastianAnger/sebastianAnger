@@ -1,7 +1,7 @@
 # ¡Hola! Soy Sebastian Vasquez 👋
 
 <p align="center">
-  <img src="https://github.com/sebastianAnger/My_Resume_SebastianV/blob/36ff87851f78f1a914577f062b728bb80683d7cb/img/Geek%20style01.png" width="350">
+  <img src="https://github.com/sebastianAnger/My_Resume_SebastianV/blob/36ff87851f78f1a914577f062b728bb80683d7cb/img/Geek%20style01.png" width="250">
 </p>
 
 ### 🚀 Sobre mí
