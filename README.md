@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # ¡Hola! Soy Sebastian Vasquez 👋
 
 <p align="center">
