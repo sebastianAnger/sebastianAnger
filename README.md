@@ -6,7 +6,7 @@
 
 ### 🚀 Sobre mí
 
-Soy un **Desarrollador Fullstack**  en Sonora, México, con una trayectoria versátil que abarca desde el desarrollo web moderno hasta la robótica y la gestión de proyectos. Mi enfoque combina la resolución técnica con una visión estratégica orientada al servicio.
+Soy un **Desarrollador Fullstack**  en Sonora, México, con una trayectoria versátil que abarca desde el desarrollo web moderno hasta la robótica y la gestión e implementacion de proyectos de software. Mi enfoque combina la resolución técnica con una visión estratégica orientada al servicio.
 
 - 🌵 **Ubicación:** Sonora, México.
 - 💻 **Especialidad:** Desarrollo Web con JS/TS, PHP y CSS.
