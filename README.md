@@ -41,12 +41,12 @@ Soy **Desarrollador Fullstack**  en Sonora, México, con una trayectoria versát
 
 Mi perfil no solo es técnico; me enfoco en el valor humano y la eficiencia operativa:
 
-*   ** Enfoque en el Servicio:** Soluciones eficientes y soporte oportuno para la continuidad del negocio.
-*   ** Proactividad:** Anticipación de incidencias y promoción de nuevas tecnologías.
-*   ** Trabajo en Equipo:** Comunicación efectiva entre áreas técnicas y usuarios finales.
-*   ** Agile Mindset:** Gestión de proyectos optimizando tiempos y adaptabilidad.
-*   ** Oratoria & Comunicación:** Capacidad para traducir conceptos técnicos complejos a lenguaje de negocio o cliente.
-*   ** Iniciativa:** Mejora constante de flujos de trabajo e infraestructura.
+*   **Enfoque en el Servicio:** Soluciones eficientes y soporte oportuno para la continuidad del negocio.
+*   **Proactividad:** Anticipación de incidencias y promoción de nuevas tecnologías.
+*   **Trabajo en Equipo:** Comunicación efectiva entre áreas técnicas y usuarios finales.
+*   **Agile Mindset:** Gestión de proyectos optimizando tiempos y adaptabilidad.
+*   **Oratoria & Comunicación:** Capacidad para traducir conceptos técnicos complejos a lenguaje de negocio o cliente.
+*   **Iniciativa:** Mejora constante de flujos de trabajo e infraestructura.
 
 ---
 
