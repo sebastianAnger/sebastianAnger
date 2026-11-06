@@ -9,11 +9,11 @@
 Soy **Desarrollador Fullstack**  en Sonora, México, con una trayectoria versátil que abarca desde el desarrollo web moderno hasta la robótica y la gestión e implementacion de proyectos de software.
 
 - 🌵 **Ubicación:** Sonora, México. 🌵
-- 💻 **Especialidad:** Desarrollo Web con JS/TS, PHP y CSS. 💻
-- 🤖 **Experiencia Multientorno:** He desarrollado soluciones en **Python** para robótica y matemáticas, así como aplicaciones de escritorio en **C#**. 🤖
-- 📊 **Data Expert:** Especialista en lógica de negocio y cálculos avanzados a nivel de base de datos con **SQL**. 📊
-- 🧠 **IA & Innovación:** Experimentando constantemente con nuevas herramientas de IA para potenciar la productividad y la calidad del software. 🧠
-- 🛠️ **Background:** Experiencia previa como Soporte Técnico, Implementador de Software y Gestor de Proyectos. 🛠️
+- 💻 **Especialidad:** Desarrollo Web con JS/TS, PHP y CSS.
+- 🤖 **Experiencia Multientorno:** He desarrollado soluciones en **Python** para robótica y matemáticas, así como aplicaciones de escritorio en **C#**. 
+- 📊 **Data Expert:** Especialista en lógica de negocio y cálculos avanzados a nivel de base de datos con **SQL**. 
+- 🧠 **IA & Innovación:** Experimentando constantemente con nuevas herramientas de IA para potenciar la productividad y la calidad del software. 
+- 🛠️ **Background:** Experiencia previa como Soporte Técnico, Implementador de Software y Gestor de Proyectos. 
 
 ---
 
