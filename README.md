@@ -1,23 +1,23 @@
-# ¡Hola! Soy Sebastian Vasquez 👋
+# Sebastian Vasquez
 
 <p align="center">
   <img src="https://github.com/sebastianAnger/My_Resume_SebastianV/blob/36ff87851f78f1a914577f062b728bb80683d7cb/img/Geek%20style01.png" width="200">
 </p>
 
-### 🚀 Sobre mí
+### Sobre mí
 
-Soy un **Desarrollador Fullstack**  en Sonora, México, con una trayectoria versátil que abarca desde el desarrollo web moderno hasta la robótica y la gestión e implementacion de proyectos de software. Mi enfoque combina la resolución técnica con una visión estratégica orientada al servicio.
+Soy **Desarrollador Fullstack**  en Sonora, México, con una trayectoria versátil que abarca desde el desarrollo web moderno hasta la robótica y la gestión e implementacion de proyectos de software.
 
-- 🌵 **Ubicación:** Sonora, México.
-- 💻 **Especialidad:** Desarrollo Web con JS/TS, PHP y CSS.
-- 🤖 **Experiencia Multientorno:** He desarrollado soluciones en **Python** para robótica y matemáticas, así como aplicaciones de escritorio en **C#**.
-- 📊 **Data Expert:** Especialista en lógica de negocio y cálculos avanzados a nivel de base de datos con **SQL**.
-- 🧠 **IA & Innovación:** Experimentando constantemente con nuevas herramientas de IA para potenciar la productividad y la calidad del software.
-- 🛠️ **Background:** Experiencia previa como Soporte Técnico, Implementador de Software y Gestor de Proyectos.
+- 🌵 **Ubicación:** Sonora, México. 🌵
+- 💻 **Especialidad:** Desarrollo Web con JS/TS, PHP y CSS. 💻
+- 🤖 **Experiencia Multientorno:** He desarrollado soluciones en **Python** para robótica y matemáticas, así como aplicaciones de escritorio en **C#**. 🤖
+- 📊 **Data Expert:** Especialista en lógica de negocio y cálculos avanzados a nivel de base de datos con **SQL**. 📊
+- 🧠 **IA & Innovación:** Experimentando constantemente con nuevas herramientas de IA para potenciar la productividad y la calidad del software. 🧠
+- 🛠️ **Background:** Experiencia previa como Soporte Técnico, Implementador de Software y Gestor de Proyectos. 🛠️
 
 ---
 
-### 🛠️ Stack Tecnológico
+### Stack
 
 <p align="left">
   <!-- Web Development -->
@@ -37,20 +37,20 @@ Soy un **Desarrollador Fullstack**  en Sonora, México, con una trayectoria vers
 
 ---
 
-### 🧠 Soft Skills & Gestión
+### Soft Skills & Gestión
 
 Mi perfil no solo es técnico; me enfoco en el valor humano y la eficiencia operativa:
 
-*   **🎯 Enfoque en el Servicio:** Soluciones eficientes y soporte oportuno para la continuidad del negocio.
-*   **⚡ Proactividad:** Anticipación de incidencias y promoción de nuevas tecnologías.
-*   **🤝 Trabajo en Equipo:** Comunicación efectiva entre áreas técnicas y usuarios finales.
-*   **🔄 Agile Mindset:** Gestión de proyectos optimizando tiempos y adaptabilidad.
-*   **🗣️ Oratoria & Comunicación:** Capacidad para traducir conceptos técnicos complejos a lenguaje de negocio o cliente.
-*   **💡 Iniciativa:** Mejora constante de flujos de trabajo e infraestructura.
+*   ** Enfoque en el Servicio:** Soluciones eficientes y soporte oportuno para la continuidad del negocio.
+*   ** Proactividad:** Anticipación de incidencias y promoción de nuevas tecnologías.
+*   ** Trabajo en Equipo:** Comunicación efectiva entre áreas técnicas y usuarios finales.
+*   ** Agile Mindset:** Gestión de proyectos optimizando tiempos y adaptabilidad.
+*   ** Oratoria & Comunicación:** Capacidad para traducir conceptos técnicos complejos a lenguaje de negocio o cliente.
+*   ** Iniciativa:** Mejora constante de flujos de trabajo e infraestructura.
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=&preferLogin=false&Points.CreatedRepositories=1.2&Points.DirectStars=3.8&Points.Issues=2.1">    <img  alt="sebastianAnger's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sebastianAnger?cardType=github&theme=github-dark&fontFamily=&preferLogin=false&Points.CreatedRepositories=1.2&Points.DirectStars=3.8&Points.Issues=2.1" />  </a>
@@ -58,7 +58,7 @@ Mi perfil no solo es técnico; me enfoco en el valor humano y la eficiencia oper
 
 ---
 
-### 📫 Conecta conmigo
+### Links
 
 <p align="left">
 <a href="www.linkedin.com/in/sebastian-vasquezc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -67,5 +67,5 @@ Mi perfil no solo es técnico; me enfoco en el valor humano y la eficiencia oper
 
 ---
 <p align="center">
-  <i>"Buscando siempre aprender, mejorar y potenciar el impacto de la tecnología."</i>
+  <i>"Usar la tecnología para potenciar el valor humano."</i>
 </p>
